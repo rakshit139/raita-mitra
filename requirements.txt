@@ -1,6 +1,6 @@
 numpy
 pandas
-Flask 
+Flask==1.1.2
 scikit-learn
 torch
 torchvision
